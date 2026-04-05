@@ -1,0 +1,6 @@
+[2026-04-05 12:24:39.828288] Error in fetch_products ConnectionError - No connection could be made.
+[2026-04-05 12:24:40.829167] Error in lookup_product HTTP Error -404 Not found for product ID 999
+[2026-04-05 12:48:48.025520] Error in fetch_products ConnectionError - No connection could be made.
+[2026-04-05 12:48:48.959402] Error in lookup_product HTTP Error -404 Not found for product ID 999
+[2026-04-05 13:03:51.377059] Error in fetch_products ConnectionError - No connection could be made.
+[2026-04-05 13:03:52.097114] Error in lookup_product HTTP Error -404 Not found for product ID 999
